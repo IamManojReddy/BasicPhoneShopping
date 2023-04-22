@@ -1,0 +1,5 @@
+body {
+    min-height: 100vh;
+    background-image: -webkit-gradient(linear, left top, right top, from(#373b44), color-stop(#3d4d6d), color-stop(#406098), color-stop(#4173c5), to(#4286f4));
+    background-image: linear-gradient(to right, #373b44, #3d4d6d, #406098, #4173c5, #4286f4);
+}
